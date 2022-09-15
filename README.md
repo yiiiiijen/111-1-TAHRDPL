@@ -3,6 +3,5 @@
 姓名 : 王依仁<br />
 系級 : 科技系114級 <br />
 
-- [練習一](http://localhost:8888/nbconvert/html/Desktop/python/Python01.ipynb?download=false)
-- [練習二]
-- [練習三]
+- - - 
+- [9/15 練習一](http://localhost:8888/nbconvert/html/Desktop/python/Python01.ipynb?download=false)
