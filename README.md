@@ -7,6 +7,6 @@
 系級 : 科技系114級 <br />
 擅長 : 實作、手做
 
-課堂練習
+課堂作業
 -------------
-- [9/15 練習一](http://localhost:8888/notebooks/Desktop/python/Python01.ipynb)
+- [9/15 作業](http://localhost:8888/notebooks/Desktop/python/Python01.ipynb)
