@@ -1,0 +1,52 @@
+```python
+#Q1
+fine=25688
+violate_law="道路交通管理處罰條例第35條第4項﹑第67條"
+rate1=0.3
+rate2=0.7
+fine1=fine*0.3
+fine2=fine*0.7
+print("根據 :",violate_law)
+print("事件 : 行車糾紛")
+print("原告需賠償金額:",int(fine1))
+print("被告需賠償金額:",int(fine2))
+```
+
+
+```python
+#Q2
+fee = 11805
+interest = 0.0005
+month1 = 150
+month2 = 300
+penalty = (month1+month2)
+total = (fee*(1+interest)**59+penalty)
+print("被告總償還金額:",int(total))
+```
+
+    被告總償還金額: 12608
+    
+
+
+```python
+#Q3
+case=input("案件名稱 :")
+
+if case =="被告闖紅燈":
+    print("被告賠100%")
+elif case =="原告闖紅燈":
+    print("原告多,被告少")
+elif case =="原告﹑被告皆闖紅燈":
+    print("原告50%,被告50%")
+else:
+    print("請填入有效訊息")
+```
+
+    案件名稱 :原告闖紅燈
+    原告多,被告少
+    
+
+
+```python
+
+```
