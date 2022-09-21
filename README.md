@@ -9,4 +9,4 @@
 
 課堂練習
 -------------
-- [9/15 練習一](http://localhost:8888/nbconvert/html/Desktop/python/Python01.ipynb?download=false)
+- [9/15 練習一](http://localhost:8888/notebooks/Desktop/python/Python01.ipynb)
