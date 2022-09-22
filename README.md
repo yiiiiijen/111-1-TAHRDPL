@@ -9,4 +9,4 @@
 
 課堂作業
 -------------
-- [9/15 作業](http://localhost:8888/notebooks/Desktop/python/Python01.ipynb)
+- [9/15 作業](file:///C:/Users/rebec/Downloads/Python01.html)
