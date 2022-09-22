@@ -7,6 +7,6 @@
 系級 : 科技系114級 <br />
 擅長 : 實作、手做
 
-課堂作業
+課堂資料
 -------------
-- [9/15 作業](file:///C:/Users/rebec/Downloads/Python01.html)
+- [資料](https://data.gov.tw/datasets/search?p=1&size=10&s=dataset_view_times_desc&rct=283)
