@@ -9,4 +9,4 @@
 
 課堂資料
 -------------
-- [資料](https://data.gov.tw/datasets/search?p=1&size=10&s=dataset_view_times_desc&rct=283)
+- [政府資料開放平臺](https://data.gov.tw/datasets/search?p=1&size=10&s=dataset_view_times_desc&rct=283)
