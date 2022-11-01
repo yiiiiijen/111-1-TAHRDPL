@@ -14,8 +14,9 @@
 
 作業參考資料
 -------------
+[Dictionary](https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-533b8d8d96f3) <br />
 [json_1](https://www.geeksforgeeks.org/read-json-file-using-python/) <br />
-[json_2](https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-533b8d8d96f3) <br />
+[爬蟲教學影片1](https://www.google.com/url?q=https://youtube.com/playlist?list%3DPLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF&sa=D&source=editors&ust=1667142506268295&usg=AOvVaw0QtHU7fexbpEtW6fEWY8St) <br />
 
 作業繳交
 -------------
