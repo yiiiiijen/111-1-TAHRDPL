@@ -21,6 +21,7 @@
 [anaconda](https://anaconda.org/) <br />
 [文字探勘影片](https://www.youtube.com/watch?v=HGPPoaBxyb0) <br />
 [文字探勘簡報](https://anaconda.org/) <br />
+[文字探勘PL](https://github.com/pecu/LawTech/tree/main/2021LawTech/Learning-Materials/C6_Python_%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98) <br />
 
 作業繳交
 -------------
