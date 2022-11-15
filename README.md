@@ -20,7 +20,7 @@
 [文字探勘（Jieba）、文本共現網路分析影片](https://www.youtube.com/watch?v=X2QsNvPkYbQ&list=PLZPupYHVv8XdjA45LMTdhw848NXxGqii9&index=15) <br />
 [anaconda](https://anaconda.org/) <br />
 [文字探勘影片](https://www.youtube.com/watch?v=HGPPoaBxyb0) <br />
-[文字探勘簡報](https://anaconda.org/) <br />
+[文字探勘簡報](https://docs.google.com/presentation/d/1WETNdsRlrjPu6Tdr7bqKW6re54l-thbCoaz60EV7eFo/edit?usp=sharing) <br />
 [文字探勘PL](https://github.com/pecu/LawTech/tree/main/2021LawTech/Learning-Materials/C6_Python_%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98) <br />
 
 作業繳交
