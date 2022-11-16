@@ -28,4 +28,5 @@
 - [作業一](https://github.com/yiiiiijen/111-1-TAHRDPL/tree/main/0922) <br />
 - [作業二](https://github.com/yiiiiijen/111-1-TAHRDPL/tree/main/1006) <br />
 - [作業三](https://github.com/yiiiiijen/111-1-TAHRDPL/blob/main/1020/work3.ipynb) <br />
-- [作業四](https://github.com/yiiiiijen/111-1-TAHRDPL/blob/main/1103/work4.ipynb) <br />
+- [作業四 Python code](https://github.com/yiiiiijen/111-1-TAHRDPL/blob/main/1103/work4.ipynb) <br />
+- [作業四 medium](https://medium.com/@41071101h/%E5%85%A8%E5%8F%B0%E6%99%AF%E9%BB%9E%E7%89%B9%E8%89%B2%E6%93%B7%E5%8F%96-73bfb0b6494b)<br />
