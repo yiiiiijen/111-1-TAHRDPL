@@ -21,7 +21,8 @@
 [anaconda](https://anaconda.org/) <br />
 [文字探勘影片](https://www.youtube.com/watch?v=HGPPoaBxyb0) <br />
 [文字探勘簡報](https://docs.google.com/presentation/d/1WETNdsRlrjPu6Tdr7bqKW6re54l-thbCoaz60EV7eFo/edit?usp=sharing) <br />
-[文字探勘PL](https://github.com/pecu/LawTech/tree/main/2021LawTech/Learning-Materials/C6_Python_%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98) <br />
+[文字探勘老師PL](https://github.com/pecu/LawTech/tree/main/2021LawTech/Learning-Materials/C6_Python_%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98) <br />
+[文字探勘+爬蟲](https://dba.nkust.edu.tw/uploads/asset/data/62382e2c2e6356240dbf3492/25.pdf) <br />
 
 作業繳交
 -------------
